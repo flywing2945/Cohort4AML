@@ -1,4 +1,4 @@
-![logo](HSBClogo2.png)
+![logo](hsbclogo3.png)
 
 # This is the Title
 ## About this repository
